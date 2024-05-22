@@ -55,6 +55,7 @@ The model is compiled using the Adam optimizer and binary crossentropy loss func
 
 Results
 The RNN model achieves an accuracy of 72% on the provided dataset.
+the dataset link is https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 Future Work
 Implement Transformers: Future improvements will include implementing transformer-based models such as BERT for better performance.
