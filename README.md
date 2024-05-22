@@ -1,4 +1,4 @@
-# RNN-implemengtation
+# RNN-implementation
 # Text Classification with RNN and NLP
 
 This repository contains a project for text classification using Recurrent Neural Networks (RNN) and various NLP preprocessing techniques. The model achieves an accuracy of 72% on the dataset. The project involves text cleaning, tokenization, lemmatization, and fitting an RNN model. The implementation of transformers is planned for future improvements.
