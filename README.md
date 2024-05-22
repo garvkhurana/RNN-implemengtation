@@ -57,6 +57,9 @@ Results
 The RNN model achieves an accuracy of 72% on the provided dataset.
 the dataset link is https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
+
+will soon deploy it on render or any cloud platform too
+
 Future Work
 Implement Transformers: Future improvements will include implementing transformer-based models such as BERT for better performance.
 Hyperparameter Tuning: Perform extensive hyperparameter tuning to optimize the model.
